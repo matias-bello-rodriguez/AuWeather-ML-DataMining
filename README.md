@@ -10,21 +10,6 @@ Este proyecto analiza datos meteorológicos de Australia para extraer informaci�
 
 ---
 
-## Gráficos Más Importantes
-
-1. **Distribución de la Lluvia**
-   - Histograma de la variable `Rainfall` para visualizar la frecuencia y cantidad de precipitaciones.
-2. **Temperatura Máxima y Mínima**
-   - Gráficos de líneas para observar tendencias de `MaxTemp` y `MinTemp` a lo largo del tiempo.
-3. **Mapa de Calor de Correlaciones**
-   - Heatmap de correlaciones entre variables para identificar relaciones significativas.
-4. **Boxplot de Humedad vs. Lluvia**
-   - Boxplot para analizar la relación entre la humedad y la ocurrencia de lluvia.
-5. **Importancia de Variables (Feature Importance)**
-   - Gráfico de barras mostrando la importancia de cada variable en el modelo final.
-
----
-
 ## KPI (Indicadores Clave de Desempeño)
 
 - **Precisión (Accuracy)**: Proporción de predicciones correctas.
