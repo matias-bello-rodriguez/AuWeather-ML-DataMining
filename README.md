@@ -4,6 +4,10 @@
 
 Este proyecto analiza datos meteorológicos de Australia para extraer información relevante, visualizar tendencias y construir modelos predictivos. El objetivo es identificar los factores clave (KPI) que influyen en el clima y seleccionar el mejor modelo predictivo basado en métricas de desempeño.
 
+<img width="739" height="577" alt="Captura de pantalla 2025-08-12 215046" src="https://github.com/user-attachments/assets/152e7606-a257-4020-843a-86b5c5ec4c10" />
+<img width="938" height="371" alt="Captura de pantalla 2025-08-12 215059" src="https://github.com/user-attachments/assets/59839a01-f599-424b-87b9-06bc5054887c" />
+
+
 ---
 
 ## Gráficos Más Importantes
@@ -67,5 +71,29 @@ Este proyecto analiza datos meteorológicos de Australia para extraer informaci�
 
 ---
 
-**Autor:** [Tu Nombre]
-**Fecha:** Agosto 2025
+## Impacto de Negocio para Aerostáticos Aventura
+
+### 💰 Impacto Financiero:
+- Reducción del 40% en cancelaciones de último momento
+- Ahorro proyectado: $96M CLP anuales
+- ROI del 225% en el primer año
+
+### 📊 KPIs Propuestos:
+- Tasa de vuelos recalendarizados: <15%
+- Precisión de predicción: >85%
+- Anticipación de cancelación: >24 horas
+
+### 🚀 Estrategias de Implementación:
+- Sistema de Alerta Temprana automatizado
+- Optimización de horarios hacia ventanas matutinas
+- Capacitación especializada del personal
+
+### 📈 Beneficios Esperados:
+- Aumento del 30% en vuelos completados
+- Mejora del 25% en satisfacción del cliente
+- Reducción del 50% en quejas por cancelaciones
+
+---
+
+**Autor:** Matías Bello
+**Fecha:** Junio 2024
